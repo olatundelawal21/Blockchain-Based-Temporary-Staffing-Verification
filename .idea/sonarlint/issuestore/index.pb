@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+R
+"contracts/assignment-tracking.clar,d/9/d98f25e861f27d3fb89f94d5db60b01aa16120fd
+Q
+!tests/assignment-tracking.test.ts,8/8/883a9607c54f04314780ce8def2c4de6350b24c5
+Q
+!contracts/performance-rating.clar,d/1/d19cd161856ab639e6fca9bd4539c56fbd5c8a7c
+R
+"contracts/skill-certification.clar,1/e/1e7c69aee38087ce367014808e3496384ffb84cd
+Q
+!tests/skill-certification.test.ts,2/8/28dfa1917709bd1e8755481337a897a39211f701
+C
+tests/test-utils.ts,9/f/9fda4008f387bc8dd541bb9f9e457fe6f5f4fc1e
+R
+"contracts/worker-verification.clar,8/a/8a09f3602baaf6a6c74d09ae186b5cae21fa4b96
+Q
+!tests/worker-verification.test.ts,a/c/ac1ec06e29529da6732060b02e670c27f98f110d
