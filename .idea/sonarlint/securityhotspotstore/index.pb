@@ -5,3 +5,5 @@ R
 "contracts/assignment-tracking.clar,d/9/d98f25e861f27d3fb89f94d5db60b01aa16120fd
 Q
 !tests/assignment-tracking.test.ts,8/8/883a9607c54f04314780ce8def2c4de6350b24c5
+Q
+!contracts/performance-rating.clar,d/1/d19cd161856ab639e6fca9bd4539c56fbd5c8a7c
